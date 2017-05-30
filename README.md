@@ -42,7 +42,7 @@ finish the prompt
 
 ## s3
 
-### This is the util relate to s3 instances.
+### This is the util relate to s3.
 
 * **init_session()**: helper function for obtaining s3 resource
 
